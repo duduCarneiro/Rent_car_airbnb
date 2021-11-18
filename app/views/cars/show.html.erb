@@ -12,7 +12,7 @@
 
       <p>Situated at: <%= @car.location %></p>
 
-      <p>Porduced in: <%= @car.year %></p>
+      <p>Produced in: <%= @car.year %></p>
 
       <p>Price: <%= @car.daily_rate %>$ per hour</p>
     </div>
@@ -22,13 +22,21 @@
     <div class="col-12" style="margin: 0 auto; background: white; width: 600px">
       <div class="container">
         <h3>Rent this car !</h3>
+
         <%= simple_form_for [@car, @rent] do |f| %>
                 <%= f.input :name %>
                 <%= f.input :date %>
                 <%= f.input :time %>
                 <%= f.submit 'Rent your car', class: 'btn btn-warning' %>
         <% end %>
-        <%= link_to 'Home menu', root_path, class: 'btn btn-warning m-3' %>
+
+        <div class="row justify-content-center border-top m-3">
+          <%= link_to 'Home menu', root_path, class: 'btn btn-warning m-3' %>
+          <% if policy(@car).destroy? %>
+            <%= link_to "delete", car_path(@car), method: :delete, class: 'btn btn-warning m-3' %>
+          <% end %>
+        </div>
+
       </div>
 
     </div>
