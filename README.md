@@ -33,6 +33,9 @@ you can access the app on: [rent-car-airbnb.herokuapp.com/](https://rent-car-air
 ## ✍️ Usage and examples
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<p align="center">
+  <img src="./img/search bar.jpg" alt="Size Limit CLI" width="738">
+</p>
 <br> xxxxxxxxxxxxxxxxxxxxxxxxx
 Finally, wxxxxxxxxxxxxxxxxx
 
