@@ -41,11 +41,6 @@ If you scroll down on the landing page, you will find a search bar where is poss
 The map on the right side shows all options pinned on their actual locations. 
 Finally, after you choose a car and click on it, you will be redirected to the booking page to fill in a form with some information about your rent. thas it.
 
-<p align="center">
-  <img src="./img/2 screen.jpg" alt="Size Limit CLI" width="738">
-</p>
-
-
 ## ⚙️ Built using
 
 - HTML;
