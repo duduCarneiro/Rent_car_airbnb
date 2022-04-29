@@ -9,16 +9,17 @@
 
 # 👨‍💻 About
 
-This project is part of the content of the [Le Wagon coding bootcamp](https://www.lewagon.com) 🔔! <br>
-A Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by our team.
-<br> It was made from scratch to build a MVP of AirBnB. As in the Airbnb concept, it allows anyone to create a free account so they can list their vehicles and rent unique cars anywhere in the world.
+This was the first big project presented during [Le Wagon coding bootcamp](https://www.lewagon.com) 🔔! 
+<br>
+> *"Building an Airbnb clone from scratch in just five days is one of the most challenging and enjoyable moments of the entire bootcamp!⠀That’s the first time the students code in teams, learning to collaborate on Github using pull requests and deploying their apps on Heroku, using the same workflow as successful startups." (Le Wagon)*
+<br> 
+It was made from scratch to build a MVP of AirBnB. In our project, we developed a web app where the users can easily get a car for just an hour or for a few days. As in the Airbnb concept, it allows anyone to create a free account so they can list their vehicles and rent unique cars anywhere in the world.
 
 ## 📚 Contents
 
 - [Get started](#-get-started)
 - [Usage and examples](#-usage-and-examples)
-- [Built with](#-built-with)
-- [Features](#-features)
+- [Built using](#-built-using)
 - [Credits](#-credits)
 
 ## 🚀 Get started
@@ -39,21 +40,16 @@ The screen turns green and also we now have the Highscore reached during this tu
 
 A Highscore is another feature of this small application. Then if you want to play again, we can simply click the Again! button and it all resets everything except for the Highscore. The Highscore is kept and so if I'm quicker in this round, my Highscore will then become better.
 
-## ⚙️ Built with
+## ⚙️ Built using
 
 - HTML;
 - CSS;
 - JavaScript;
-
-## 🌟 Features
-
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no dependencies<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no installation<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no configs<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
+- Cloudinary;
+- Mapbox;
+- Ruby on Rails;
 
 ## ⚠️ Credits
 
-While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
-
+This project is part of the content of the [Le Wagon coding bootcamp](https://www.lewagon.com) 🔔! <br>
+A Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates).
