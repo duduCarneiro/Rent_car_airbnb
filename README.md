@@ -11,7 +11,7 @@
 
 This project is part of the content of the [Le Wagon coding bootcamp](https://www.lewagon.com) 🔔! <br>
 A Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by our team.
-<br> It was made from scratch to build an MVP of AirBnB. The goal of this game is to simply guess a secret number which is between one and 20. 
+<br> It was made from scratch to build a MVP of AirBnB. As in the Airbnb concept, it allows anyone to create a free account so they can list their vehicles and rent unique cars anywhere in the world.
 
 ## 📚 Contents
 
