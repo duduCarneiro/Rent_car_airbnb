@@ -15,6 +15,10 @@ This was the first big project presented during [Le Wagon coding bootcamp](https
 <br> 
 It was made from scratch to build a MVP of AirBnB. In our project, we developed a web app where the users can easily get a car for just an hour or for a few days. As in the Airbnb concept, it allows anyone to create a free account so they can list their vehicles and rent unique cars anywhere in the world.
 
+<p align="center">
+  <img src="./img/banner.jpg" alt="Size Limit CLI" width="738">
+</p>
+
 ## 📚 Contents
 
 - [Get started](#-get-started)
