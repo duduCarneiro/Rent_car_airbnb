@@ -1,10 +1,10 @@
 <h1 align="center">
-  🚙<br>Rent a car
+  <br>Rent a car
 </h1>
 
 
 <p align="center">
-  <img src="./img/car_icon.png" alt="Size Limit CLI" width="738">
+  <img src="./img/car_icon.png" alt="20%" width="20%">
 </p>
 
 # 👨‍💻 About
@@ -23,7 +23,7 @@ A Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/
 
 ## 🚀 Get started
 
-you can access the app on: [rent-car-airbnb.herokuapp.com/](https://rent-car-airbnb.herokuapp.com/).
+you can access the app on: [rent-car-airbnb.herokuapp.com/](https://rent-car-airbnb.herokuapp.com/) 🚙.
 
 ## ✍️ Usage and examples
 
