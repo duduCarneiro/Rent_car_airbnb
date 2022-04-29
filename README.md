@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/car_icon.png" alt="Size Limit CLI" width="738">
 </p>
 
 # 👨‍💻 About
