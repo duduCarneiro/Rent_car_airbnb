@@ -1,9 +1,3 @@
-
-
----
-you can access the app on: https://rent-car-airbnb.herokuapp.com/  🚙
-
-
 <h1 align="center">
   🚙<br>Rent a car
 </h1>
@@ -29,7 +23,7 @@ A Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/
 
 ## 🚀 Get started
 
-Website: visit [rent-car-airbnb.herokuapp.com/](https://rent-car-airbnb.herokuapp.com/).
+you can access the app on: [rent-car-airbnb.herokuapp.com/](https://rent-car-airbnb.herokuapp.com/).
 
 ## ✍️ Usage and examples
 
