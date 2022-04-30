@@ -29,7 +29,7 @@ It was made from scratch to build a MVP of AirBnB. In our project, we developed 
 
 ## 🚀 Get started
 
-you can access the app on: [rent-car-airbnb.herokuapp.com/](https://rent-car-airbnb.herokuapp.com/) 🚙.
+you can access the app on: [rent-car-airbnb.herokuapp.com](https://rent-car-airbnb.herokuapp.com/) 🚙.
 
 ## ✍️ Usage and examples
 
